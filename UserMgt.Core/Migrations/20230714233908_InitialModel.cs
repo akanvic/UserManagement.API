@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace UserMgt.Repo.Migrations
+namespace UserMgt.Core.Migrations
 {
     public partial class InitialModel : Migration
     {
